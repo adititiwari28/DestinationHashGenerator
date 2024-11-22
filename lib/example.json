@@ -1,0 +1,17 @@
+{
+    "data": {
+      "info": {
+        "destination": "CityY",
+        "details": {
+          "otherKey": "value"
+        }
+      },
+      "arrayTest": [
+        {
+          "key1": "value1",
+          "destination": "CityZ"
+        }
+      ]
+    }
+  }
+  
